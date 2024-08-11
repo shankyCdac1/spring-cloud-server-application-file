@@ -1,2 +1,2 @@
 db:
-    connection: this is coming from spring cloud config server with updated msg
+    connection: this is coming from spring cloud config server with newly updated msg
