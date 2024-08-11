@@ -1,1 +1,2 @@
-db.connection:this is coming from spring cloud config server
+db:
+    connection: this is coming from spring cloud config server
